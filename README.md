@@ -5,8 +5,10 @@ Peking University student working on image restoration, deraining, continual lea
 [![GitHub followers](https://img.shields.io/github/followers/StaryMoon?style=flat&label=followers)](https://github.com/StaryMoon)
 [![DailyDesk](https://img.shields.io/github/stars/StaryMoon/DailyDesk?style=flat&label=DailyDesk)](https://github.com/StaryMoon/DailyDesk)
 [![VSCode-Zhihu](https://img.shields.io/github/stars/StaryMoon/VSCode-Zhihu?style=flat&label=VSCode-Zhihu)](https://github.com/StaryMoon/VSCode-Zhihu)
+[![ResFlow-Unofficial](https://img.shields.io/github/stars/StaryMoon/ResFlow-Unofficial?style=flat&label=ResFlow-Unofficial)](https://github.com/StaryMoon/ResFlow-Unofficial)
+[![IPC-Dehaze-Unofficial](https://img.shields.io/github/stars/StaryMoon/IPC-Dehaze-Unofficial?style=flat&label=IPC-Dehaze)](https://github.com/StaryMoon/IPC-Dehaze-Unofficial)
 
-![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=6&prs=6&anki=180&theme=light)
+![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=8&prs=6&anki=180&theme=light)
 
 ## Focus
 
@@ -21,6 +23,8 @@ Peking University student working on image restoration, deraining, continual lea
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Native Swift/AppKit macOS glass desktop planner with recurring tasks, local rewards, and a tiny desktop pet. |
 | [VSCode-Zhihu](https://github.com/StaryMoon/VSCode-Zhihu) | Maintained fork of Zhihu On VSCode with login fixes, packaged VSIX releases, markdown publishing, answer drafting, and authenticated reading utilities. |
 | [student-stats-cards](https://github.com/StaryMoon/student-stats-cards) | GitHub profile cards for students: research, LeetCode, open-source PRs, study streaks, and academic signals. |
+| [ResFlow-Unofficial](https://github.com/StaryMoon/ResFlow-Unofficial) | Unofficial PyTorch starter for CVPR 2025 Reversing Flow for Image Restoration, with a compact velocity-field model and flow-matching training scaffold. |
+| [IPC-Dehaze-Unofficial](https://github.com/StaryMoon/IPC-Dehaze-Unofficial) | Unofficial PyTorch starter for CVPR 2025 IPC-Dehaze, with predictor-critic code refinement and codebook-style dehazing scaffold. |
 | [Prompting-Rain-Off](https://github.com/StaryMoon/Prompting-Rain-Off) | Project page for "Prompting Rain Off: Evolving Compact Dual Prompts for Continual De-Raining". |
 | [StaryMoon.github.io](https://github.com/StaryMoon/StaryMoon.github.io) | Personal academic homepage for publications, projects, and technical writing. |
 | [SpeedCraftLab](https://github.com/StaryMoon/SpeedCraftLab) | Browser lab for reaction time, visual scanning, CPS, and niche puzzle-game rhythm training. |
