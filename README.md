@@ -9,8 +9,9 @@ Peking University student working on image restoration, deraining, continual lea
 [![IPC-Dehaze-Unofficial](https://img.shields.io/github/stars/StaryMoon/IPC-Dehaze-Unofficial?style=flat&label=IPC-Dehaze)](https://github.com/StaryMoon/IPC-Dehaze-Unofficial)
 [![S-Seg-Unofficial](https://img.shields.io/github/stars/StaryMoon/S-Seg-Unofficial?style=flat&label=S-Seg)](https://github.com/StaryMoon/S-Seg-Unofficial)
 [![Motions-as-Queries](https://img.shields.io/github/stars/StaryMoon/Motions-as-Queries-Unofficial?style=flat&label=Motions-as-Queries)](https://github.com/StaryMoon/Motions-as-Queries-Unofficial)
+[![Presto-SCA](https://img.shields.io/github/stars/StaryMoon/Presto-SCA-Unofficial?style=flat&label=Presto-SCA)](https://github.com/StaryMoon/Presto-SCA-Unofficial)
 
-![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=10&prs=6&anki=180&theme=light)
+![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=11&prs=6&anki=180&theme=light)
 
 ## Focus
 
@@ -29,6 +30,7 @@ Peking University student working on image restoration, deraining, continual lea
 | [IPC-Dehaze-Unofficial](https://github.com/StaryMoon/IPC-Dehaze-Unofficial) | Unofficial PyTorch starter for CVPR 2025 IPC-Dehaze, with predictor-critic code refinement and codebook-style dehazing scaffold. |
 | [S-Seg-Unofficial](https://github.com/StaryMoon/S-Seg-Unofficial) | Unofficial PyTorch starter for CVPR 2025 S-Seg open-vocabulary semantic segmentation, with mask queries and text-alignment loss. |
 | [Motions-as-Queries-Unofficial](https://github.com/StaryMoon/Motions-as-Queries-Unofficial) | Unofficial PyTorch starter for CVPR 2025 one-stage multi-person motion capture, with temporal motion queries and pose heads. |
+| [Presto-SCA-Unofficial](https://github.com/StaryMoon/Presto-SCA-Unofficial) | Unofficial PyTorch starter for CVPR 2025 Presto long-video generation, with segmented cross-attention over temporal video tokens. |
 | [Prompting-Rain-Off](https://github.com/StaryMoon/Prompting-Rain-Off) | Project page for "Prompting Rain Off: Evolving Compact Dual Prompts for Continual De-Raining". |
 | [StaryMoon.github.io](https://github.com/StaryMoon/StaryMoon.github.io) | Personal academic homepage for publications, projects, and technical writing. |
 | [SpeedCraftLab](https://github.com/StaryMoon/SpeedCraftLab) | Browser lab for reaction time, visual scanning, CPS, and niche puzzle-game rhythm training. |
