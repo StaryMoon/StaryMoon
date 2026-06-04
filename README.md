@@ -6,6 +6,8 @@ Peking University student working on image restoration, deraining, continual lea
 [![DailyDesk](https://img.shields.io/github/stars/StaryMoon/DailyDesk?style=flat&label=DailyDesk)](https://github.com/StaryMoon/DailyDesk)
 [![VSCode-Zhihu](https://img.shields.io/github/stars/StaryMoon/VSCode-Zhihu?style=flat&label=VSCode-Zhihu)](https://github.com/StaryMoon/VSCode-Zhihu)
 
+![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=6&prs=6&anki=180&theme=light)
+
 ## Focus
 
 - Image restoration and deraining, especially prompt-based continual restoration.
@@ -43,4 +45,3 @@ Swift/AppKit, TypeScript, JavaScript, Python, PyTorch, HTML/CSS, GitHub Actions,
 ## Stats
 
 ![Minghao's GitHub stats](https://github-readme-stats.vercel.app/api?username=StaryMoon&show_icons=true&hide_border=true&rank_icon=github)
-
