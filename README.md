@@ -11,7 +11,7 @@ Peking University student working on image restoration, deraining, continual lea
 [![Motions-as-Queries](https://img.shields.io/github/stars/StaryMoon/Motions-as-Queries-Unofficial?style=flat&label=Motions-as-Queries)](https://github.com/StaryMoon/Motions-as-Queries-Unofficial)
 [![Presto-SCA](https://img.shields.io/github/stars/StaryMoon/Presto-SCA-Unofficial?style=flat&label=Presto-SCA)](https://github.com/StaryMoon/Presto-SCA-Unofficial)
 
-![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=11&prs=6&anki=180&theme=light)
+![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=31&prs=6&anki=180&theme=light)
 
 ## Focus
 
@@ -34,6 +34,18 @@ Peking University student working on image restoration, deraining, continual lea
 | [Prompting-Rain-Off](https://github.com/StaryMoon/Prompting-Rain-Off) | Project page for "Prompting Rain Off: Evolving Compact Dual Prompts for Continual De-Raining". |
 | [StaryMoon.github.io](https://github.com/StaryMoon/StaryMoon.github.io) | Personal academic homepage for publications, projects, and technical writing. |
 | [SpeedCraftLab](https://github.com/StaryMoon/SpeedCraftLab) | Browser lab for reaction time, visual scanning, CPS, and niche puzzle-game rhythm training. |
+
+## New CVPR 2025 Starter Batch
+
+I also maintain a fast-growing set of unofficial paper-to-code starters. Each repo is clearly marked as unofficial / WIP, with a compact PyTorch scaffold, smoke test, release, and help-wanted issues.
+
+| Area | Starter repos |
+|---|---|
+| Restoration | [Dual-Prompt-DiT](https://github.com/StaryMoon/Dual-Prompt-DiT-Unofficial), [UniRestore](https://github.com/StaryMoon/UniRestore-Unofficial), [URWKV](https://github.com/StaryMoon/URWKV-Unofficial), [OSDFace](https://github.com/StaryMoon/OSDFace-Unofficial), [SnowMaster](https://github.com/StaryMoon/SnowMaster-Unofficial) |
+| Gaussian / 3D | [FlashGS](https://github.com/StaryMoon/FlashGS-Unofficial), [Omni-Scene](https://github.com/StaryMoon/Omni-Scene-Unofficial), [Feat2GS](https://github.com/StaryMoon/Feat2GS-Unofficial), [DeSiRe-GS](https://github.com/StaryMoon/DeSiRe-GS-Unofficial), [3DTopia-XL](https://github.com/StaryMoon/ThreeDTopia-XL-Unofficial) |
+| Video / generation | [Diffusion Renderer](https://github.com/StaryMoon/Diffusion-Renderer-Unofficial), [SketchVideo](https://github.com/StaryMoon/SketchVideo-Unofficial), [VideoDirector](https://github.com/StaryMoon/VideoDirector-Unofficial), [ReCapture](https://github.com/StaryMoon/ReCapture-Unofficial) |
+| Multimodal generation | [DiffSensei](https://github.com/StaryMoon/DiffSensei-Unofficial), [Chat2SVG](https://github.com/StaryMoon/Chat2SVG-Unofficial), [Janus CVPR 2025](https://github.com/StaryMoon/Janus-CVPR2025-Unofficial) |
+| Robotics | [RoboBrain](https://github.com/StaryMoon/RoboBrain-Unofficial), [DexGrasp Anything](https://github.com/StaryMoon/DexGrasp-Anything-Unofficial), [Tartan IMU](https://github.com/StaryMoon/Tartan-IMU-Unofficial) |
 
 ## Research Threads
 
