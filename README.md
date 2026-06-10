@@ -11,7 +11,7 @@ Peking University student working on image restoration, deraining, continual lea
 [![Motions-as-Queries](https://img.shields.io/github/stars/StaryMoon/Motions-as-Queries-Unofficial?style=flat&label=Motions-as-Queries)](https://github.com/StaryMoon/Motions-as-Queries-Unofficial)
 [![Presto-SCA](https://img.shields.io/github/stars/StaryMoon/Presto-SCA-Unofficial?style=flat&label=Presto-SCA)](https://github.com/StaryMoon/Presto-SCA-Unofficial)
 
-![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=37&prs=6&anki=180&theme=light)
+![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=57&prs=6&anki=180&theme=light)
 
 ## Focus
 
@@ -34,6 +34,19 @@ Peking University student working on image restoration, deraining, continual lea
 | [Prompting-Rain-Off](https://github.com/StaryMoon/Prompting-Rain-Off) | Project page for "Prompting Rain Off: Evolving Compact Dual Prompts for Continual De-Raining". |
 | [StaryMoon.github.io](https://github.com/StaryMoon/StaryMoon.github.io) | Personal academic homepage for publications, projects, and technical writing. |
 | [SpeedCraftLab](https://github.com/StaryMoon/SpeedCraftLab) | Browser lab for reaction time, visual scanning, CPS, and niche puzzle-game rhythm training. |
+
+## Hot AI Unofficial Reproduction Batch
+
+I am also tracking high-search-volume AI directions with official-style unofficial PyTorch reproduction repositories: reasoning RL, multimodal models, video/world models, VLA robotics, 3D generation, and efficient sequence modeling.
+
+| Area | Reproduction repos |
+|---|---|
+| Reasoning RL / test-time scaling | [DeepSeek-R1](https://github.com/StaryMoon/DeepSeek-R1-Unofficial), [Kimi k1.5](https://github.com/StaryMoon/Kimi-k1-5-Unofficial), [s1](https://github.com/StaryMoon/s1-Test-Time-Scaling-Unofficial), [LIMO](https://github.com/StaryMoon/LIMO-Unofficial), [DAPO](https://github.com/StaryMoon/DAPO-Unofficial), [Open-Reasoner-Zero](https://github.com/StaryMoon/Open-Reasoner-Zero-Unofficial) |
+| Vision-language / multimodal generation | [Qwen2.5-VL](https://github.com/StaryMoon/Qwen2-5-VL-Unofficial), [InternVL3](https://github.com/StaryMoon/InternVL3-Unofficial), [Janus-Pro](https://github.com/StaryMoon/Janus-Pro-Unofficial) |
+| Video / world models | [HunyuanVideo](https://github.com/StaryMoon/HunyuanVideo-Unofficial), [CogVideoX](https://github.com/StaryMoon/CogVideoX-Unofficial), [Cosmos-WFM](https://github.com/StaryMoon/Cosmos-WFM-Unofficial) |
+| VLA robotics | [Pi0](https://github.com/StaryMoon/Pi0-Unofficial), [OpenVLA](https://github.com/StaryMoon/OpenVLA-Unofficial), [RDT-1B](https://github.com/StaryMoon/RDT-1B-Unofficial) |
+| 3D / image generation | [Hunyuan3D-2](https://github.com/StaryMoon/Hunyuan3D-2-Unofficial), [TRELLIS](https://github.com/StaryMoon/TRELLIS-Unofficial), [Stable Diffusion 3](https://github.com/StaryMoon/Stable-Diffusion-3-Unofficial), [SANA](https://github.com/StaryMoon/SANA-Unofficial) |
+| Efficient sequence modeling | [Mamba2](https://github.com/StaryMoon/Mamba2-Unofficial) |
 
 ## New CVPR 2026 Unofficial Reproduction Batch
 
