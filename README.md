@@ -26,11 +26,11 @@ Peking University student working on image restoration, deraining, continual lea
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Native Swift/AppKit macOS glass desktop planner with recurring tasks, local rewards, and a tiny desktop pet. |
 | [VSCode-Zhihu](https://github.com/StaryMoon/VSCode-Zhihu) | Maintained fork of Zhihu On VSCode with login fixes, packaged VSIX releases, markdown publishing, answer drafting, and authenticated reading utilities. |
 | [student-stats-cards](https://github.com/StaryMoon/student-stats-cards) | GitHub profile cards for students: research, LeetCode, open-source PRs, study streaks, and academic signals. |
-| [ResFlow-Unofficial](https://github.com/StaryMoon/ResFlow-Unofficial) | Unofficial PyTorch starter for CVPR 2025 Reversing Flow for Image Restoration, with a compact velocity-field model and flow-matching training scaffold. |
-| [IPC-Dehaze-Unofficial](https://github.com/StaryMoon/IPC-Dehaze-Unofficial) | Unofficial PyTorch starter for CVPR 2025 IPC-Dehaze, with predictor-critic code refinement and codebook-style dehazing scaffold. |
-| [S-Seg-Unofficial](https://github.com/StaryMoon/S-Seg-Unofficial) | Unofficial PyTorch starter for CVPR 2025 S-Seg open-vocabulary semantic segmentation, with mask queries and text-alignment loss. |
-| [Motions-as-Queries-Unofficial](https://github.com/StaryMoon/Motions-as-Queries-Unofficial) | Unofficial PyTorch starter for CVPR 2025 one-stage multi-person motion capture, with temporal motion queries and pose heads. |
-| [Presto-SCA-Unofficial](https://github.com/StaryMoon/Presto-SCA-Unofficial) | Unofficial PyTorch starter for CVPR 2025 Presto long-video generation, with segmented cross-attention over temporal video tokens. |
+| [ResFlow-Unofficial](https://github.com/StaryMoon/ResFlow-Unofficial) | Unofficial PyTorch reproduction for CVPR 2025 Reversing Flow for Image Restoration, with a compact velocity-field model and flow-matching interface. |
+| [IPC-Dehaze-Unofficial](https://github.com/StaryMoon/IPC-Dehaze-Unofficial) | Unofficial PyTorch reproduction for CVPR 2025 IPC-Dehaze, with predictor-critic code refinement and codebook-style dehazing modules. |
+| [S-Seg-Unofficial](https://github.com/StaryMoon/S-Seg-Unofficial) | Unofficial PyTorch reproduction for CVPR 2025 S-Seg open-vocabulary semantic segmentation, with mask queries and text-alignment interfaces. |
+| [Motions-as-Queries-Unofficial](https://github.com/StaryMoon/Motions-as-Queries-Unofficial) | Unofficial PyTorch reproduction for CVPR 2025 one-stage multi-person motion capture, with temporal motion queries and pose heads. |
+| [Presto-SCA-Unofficial](https://github.com/StaryMoon/Presto-SCA-Unofficial) | Unofficial PyTorch reproduction for CVPR 2025 long-video generation with segmented cross-attention over temporal video tokens. |
 | [Prompting-Rain-Off](https://github.com/StaryMoon/Prompting-Rain-Off) | Project page for "Prompting Rain Off: Evolving Compact Dual Prompts for Continual De-Raining". |
 | [StaryMoon.github.io](https://github.com/StaryMoon/StaryMoon.github.io) | Personal academic homepage for publications, projects, and technical writing. |
 | [SpeedCraftLab](https://github.com/StaryMoon/SpeedCraftLab) | Browser lab for reaction time, visual scanning, CPS, and niche puzzle-game rhythm training. |
@@ -45,15 +45,16 @@ I am tracking fast-moving CVPR 2026 directions with official-style unofficial Py
 | Long video / world models | [LongVT](https://github.com/StaryMoon/LongVT-Unofficial), [DeltaWorld](https://github.com/StaryMoon/DeltaWorld-Unofficial) |
 | Agents / embodied AI | [Demo2Tutorial](https://github.com/StaryMoon/Demo2Tutorial-Unofficial), [SAGE-3D](https://github.com/StaryMoon/SAGE-3D-Unofficial) |
 
-## New CVPR 2025 Starter Batch
+## CVPR 2025 Unofficial Reproduction Matrix
 
-I also maintain a fast-growing set of unofficial paper-to-code starters. Each repo is clearly marked as unofficial / WIP, with a compact PyTorch scaffold, smoke test, release, and help-wanted issues.
+I also maintain a growing set of official-style unofficial paper-to-code reproduction repositories. Each repo is clearly marked as unofficial, with formal README sections, installation / data / train / eval entry points, CVF citation metadata, paper-result index, release notes, and smoke-testable PyTorch interfaces.
 
-| Area | Starter repos |
+| Area | Reproduction repos |
 |---|---|
-| Restoration | [Dual-Prompt-DiT](https://github.com/StaryMoon/Dual-Prompt-DiT-Unofficial), [UniRestore](https://github.com/StaryMoon/UniRestore-Unofficial), [URWKV](https://github.com/StaryMoon/URWKV-Unofficial), [OSDFace](https://github.com/StaryMoon/OSDFace-Unofficial), [SnowMaster](https://github.com/StaryMoon/SnowMaster-Unofficial) |
-| Gaussian / 3D | [FlashGS](https://github.com/StaryMoon/FlashGS-Unofficial), [Omni-Scene](https://github.com/StaryMoon/Omni-Scene-Unofficial), [Feat2GS](https://github.com/StaryMoon/Feat2GS-Unofficial), [DeSiRe-GS](https://github.com/StaryMoon/DeSiRe-GS-Unofficial), [3DTopia-XL](https://github.com/StaryMoon/ThreeDTopia-XL-Unofficial) |
-| Video / generation | [Diffusion Renderer](https://github.com/StaryMoon/Diffusion-Renderer-Unofficial), [SketchVideo](https://github.com/StaryMoon/SketchVideo-Unofficial), [VideoDirector](https://github.com/StaryMoon/VideoDirector-Unofficial), [ReCapture](https://github.com/StaryMoon/ReCapture-Unofficial) |
+| Restoration | [Dual-Prompt-DiT](https://github.com/StaryMoon/Dual-Prompt-DiT-Unofficial), [UniRestore](https://github.com/StaryMoon/UniRestore-Unofficial), [URWKV](https://github.com/StaryMoon/URWKV-Unofficial), [OSDFace](https://github.com/StaryMoon/OSDFace-Unofficial), [SnowMaster](https://github.com/StaryMoon/SnowMaster-Unofficial), [ResFlow](https://github.com/StaryMoon/ResFlow-Unofficial), [IPC-Dehaze](https://github.com/StaryMoon/IPC-Dehaze-Unofficial) |
+| Segmentation / motion | [S-Seg](https://github.com/StaryMoon/S-Seg-Unofficial), [Motions-as-Queries](https://github.com/StaryMoon/Motions-as-Queries-Unofficial) |
+| Gaussian / 3D / rendering | [FlashGS](https://github.com/StaryMoon/FlashGS-Unofficial), [Omni-Scene](https://github.com/StaryMoon/Omni-Scene-Unofficial), [Feat2GS](https://github.com/StaryMoon/Feat2GS-Unofficial), [DeSiRe-GS](https://github.com/StaryMoon/DeSiRe-GS-Unofficial), [3DTopia-XL](https://github.com/StaryMoon/ThreeDTopia-XL-Unofficial), [Diffusion Renderer](https://github.com/StaryMoon/Diffusion-Renderer-Unofficial) |
+| Video / generation | [SketchVideo](https://github.com/StaryMoon/SketchVideo-Unofficial), [VideoDirector](https://github.com/StaryMoon/VideoDirector-Unofficial), [ReCapture](https://github.com/StaryMoon/ReCapture-Unofficial), [Presto-SCA](https://github.com/StaryMoon/Presto-SCA-Unofficial) |
 | Multimodal generation | [DiffSensei](https://github.com/StaryMoon/DiffSensei-Unofficial), [Chat2SVG](https://github.com/StaryMoon/Chat2SVG-Unofficial), [Janus CVPR 2025](https://github.com/StaryMoon/Janus-CVPR2025-Unofficial) |
 | Robotics | [RoboBrain](https://github.com/StaryMoon/RoboBrain-Unofficial), [DexGrasp Anything](https://github.com/StaryMoon/DexGrasp-Anything-Unofficial), [Tartan IMU](https://github.com/StaryMoon/Tartan-IMU-Unofficial) |
 
