@@ -11,7 +11,7 @@ Peking University student working on image restoration, deraining, continual lea
 [![Motions-as-Queries](https://img.shields.io/github/stars/StaryMoon/Motions-as-Queries-Unofficial?style=flat&label=Motions-as-Queries)](https://github.com/StaryMoon/Motions-as-Queries-Unofficial)
 [![Presto-SCA](https://img.shields.io/github/stars/StaryMoon/Presto-SCA-Unofficial?style=flat&label=Presto-SCA)](https://github.com/StaryMoon/Presto-SCA-Unofficial)
 
-![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=31&prs=6&anki=180&theme=light)
+![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=37&prs=6&anki=180&theme=light)
 
 ## Focus
 
@@ -34,6 +34,16 @@ Peking University student working on image restoration, deraining, continual lea
 | [Prompting-Rain-Off](https://github.com/StaryMoon/Prompting-Rain-Off) | Project page for "Prompting Rain Off: Evolving Compact Dual Prompts for Continual De-Raining". |
 | [StaryMoon.github.io](https://github.com/StaryMoon/StaryMoon.github.io) | Personal academic homepage for publications, projects, and technical writing. |
 | [SpeedCraftLab](https://github.com/StaryMoon/SpeedCraftLab) | Browser lab for reaction time, visual scanning, CPS, and niche puzzle-game rhythm training. |
+
+## New CVPR 2026 Unofficial Reproduction Batch
+
+I am tracking fast-moving CVPR 2026 directions with official-style unofficial PyTorch reproduction repositories: clean README, install / data / train / eval sections, paper-result index, citation, acknowledgements, and smoke-testable model interfaces.
+
+| Area | Reproduction repos |
+|---|---|
+| Multimodal diffusion / generation | [LLaDA-V](https://github.com/StaryMoon/LLaDA-V-Unofficial), [OmniGen2](https://github.com/StaryMoon/OmniGen2-Unofficial) |
+| Long video / world models | [LongVT](https://github.com/StaryMoon/LongVT-Unofficial), [DeltaWorld](https://github.com/StaryMoon/DeltaWorld-Unofficial) |
+| Agents / embodied AI | [Demo2Tutorial](https://github.com/StaryMoon/Demo2Tutorial-Unofficial), [SAGE-3D](https://github.com/StaryMoon/SAGE-3D-Unofficial) |
 
 ## New CVPR 2025 Starter Batch
 
