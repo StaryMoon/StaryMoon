@@ -11,7 +11,7 @@ Peking University student working on image restoration, deraining, continual lea
 [![Motions-as-Queries](https://img.shields.io/github/stars/StaryMoon/Motions-as-Queries-Unofficial?style=flat&label=Motions-as-Queries)](https://github.com/StaryMoon/Motions-as-Queries-Unofficial)
 [![Presto-SCA](https://img.shields.io/github/stars/StaryMoon/Presto-SCA-Unofficial?style=flat&label=Presto-SCA)](https://github.com/StaryMoon/Presto-SCA-Unofficial)
 
-![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=57&prs=6&anki=180&theme=light)
+![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=67&prs=6&anki=180&theme=light)
 
 ## Focus
 
@@ -41,6 +41,9 @@ I am also tracking high-search-volume AI directions with official-style unoffici
 
 | Area | Reproduction repos |
 |---|---|
+| Frontier LLMs / long context | [Qwen3](https://github.com/StaryMoon/Qwen3-Unofficial), [DeepSeek-V3](https://github.com/StaryMoon/DeepSeek-V3-Unofficial), [Gemma 3](https://github.com/StaryMoon/Gemma-3-Unofficial), [Phi-4](https://github.com/StaryMoon/Phi-4-Unofficial), [MiniMax-01](https://github.com/StaryMoon/MiniMax-01-Unofficial) |
+| New multimodal / generation systems | [Kimi-VL](https://github.com/StaryMoon/Kimi-VL-Unofficial), [Wan2.1](https://github.com/StaryMoon/Wan2-1-Unofficial), [ACE-Step](https://github.com/StaryMoon/ACE-Step-Unofficial) |
+| Reasoning and code models | [Skywork-OR1](https://github.com/StaryMoon/Skywork-OR1-Unofficial), [Seed-Coder](https://github.com/StaryMoon/Seed-Coder-Unofficial) |
 | Reasoning RL / test-time scaling | [DeepSeek-R1](https://github.com/StaryMoon/DeepSeek-R1-Unofficial), [Kimi k1.5](https://github.com/StaryMoon/Kimi-k1-5-Unofficial), [s1](https://github.com/StaryMoon/s1-Test-Time-Scaling-Unofficial), [LIMO](https://github.com/StaryMoon/LIMO-Unofficial), [DAPO](https://github.com/StaryMoon/DAPO-Unofficial), [Open-Reasoner-Zero](https://github.com/StaryMoon/Open-Reasoner-Zero-Unofficial) |
 | Vision-language / multimodal generation | [Qwen2.5-VL](https://github.com/StaryMoon/Qwen2-5-VL-Unofficial), [InternVL3](https://github.com/StaryMoon/InternVL3-Unofficial), [Janus-Pro](https://github.com/StaryMoon/Janus-Pro-Unofficial) |
 | Video / world models | [HunyuanVideo](https://github.com/StaryMoon/HunyuanVideo-Unofficial), [CogVideoX](https://github.com/StaryMoon/CogVideoX-Unofficial), [Cosmos-WFM](https://github.com/StaryMoon/Cosmos-WFM-Unofficial) |
