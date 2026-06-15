@@ -4,6 +4,7 @@ Peking University student working on image restoration, deraining, continual lea
 
 [![GitHub followers](https://img.shields.io/github/followers/StaryMoon?style=flat&label=followers)](https://github.com/StaryMoon)
 [![AI Paper Radar](https://img.shields.io/github/stars/StaryMoon/awesome-ai-paper-reproduction-radar?style=flat&label=AI-Paper-Radar)](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar)
+[![LLM Reasoning Roadmap](https://img.shields.io/github/stars/StaryMoon/awesome-llm-reasoning-roadmap?style=flat&label=LLM-Reasoning-Roadmap)](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap)
 [![DailyDesk](https://img.shields.io/github/stars/StaryMoon/DailyDesk?style=flat&label=DailyDesk)](https://github.com/StaryMoon/DailyDesk)
 [![VSCode-Zhihu](https://img.shields.io/github/stars/StaryMoon/VSCode-Zhihu?style=flat&label=VSCode-Zhihu)](https://github.com/StaryMoon/VSCode-Zhihu)
 [![ResFlow-Unofficial](https://img.shields.io/github/stars/StaryMoon/ResFlow-Unofficial?style=flat&label=ResFlow-Unofficial)](https://github.com/StaryMoon/ResFlow-Unofficial)
@@ -12,7 +13,7 @@ Peking University student working on image restoration, deraining, continual lea
 [![Motions-as-Queries](https://img.shields.io/github/stars/StaryMoon/Motions-as-Queries-Unofficial?style=flat&label=Motions-as-Queries)](https://github.com/StaryMoon/Motions-as-Queries-Unofficial)
 [![Presto-SCA](https://img.shields.io/github/stars/StaryMoon/Presto-SCA-Unofficial?style=flat&label=Presto-SCA)](https://github.com/StaryMoon/Presto-SCA-Unofficial)
 
-![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=67&prs=6&anki=180&theme=light)
+![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=68&prs=6&anki=180&theme=light)
 
 ## Focus
 
@@ -25,6 +26,7 @@ Peking University student working on image restoration, deraining, continual lea
 | Project | What it shows |
 |---|---|
 | [awesome-ai-paper-reproduction-radar](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar) | Searchable radar of high-interest AI papers and unofficial PyTorch reproduction repositories across LLMs, VLMs, video, robotics, 3D, and restoration. |
+| [awesome-llm-reasoning-roadmap](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap) | Visual roadmap of LLM reasoning papers from Chain-of-Thought to test-time scaling, reasoning RL, data recipes, and benchmark stress tests. |
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Native Swift/AppKit macOS glass desktop planner with recurring tasks, local rewards, and a tiny desktop pet. |
 | [VSCode-Zhihu](https://github.com/StaryMoon/VSCode-Zhihu) | Maintained fork of Zhihu On VSCode with login fixes, packaged VSIX releases, markdown publishing, answer drafting, and authenticated reading utilities. |
 | [student-stats-cards](https://github.com/StaryMoon/student-stats-cards) | GitHub profile cards for students: research, LeetCode, open-source PRs, study streaks, and academic signals. |
