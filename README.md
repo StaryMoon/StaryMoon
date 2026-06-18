@@ -80,6 +80,7 @@ I also maintain a growing set of official-style unofficial paper-to-code reprodu
 ## Open Source Footprints
 
 - Merged upstream PR: [nilbuild/developer-roadmap#10037](https://github.com/nilbuild/developer-roadmap/pull/10037).
+- Merged reasoning-list PR: [Peiyang-Song/Awesome-LLM-Reasoning-Failures#6](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures/pull/6).
 - Public maintainer-style releases for [VSCode-Zhihu](https://github.com/StaryMoon/VSCode-Zhihu/releases) and [DailyDesk](https://github.com/StaryMoon/DailyDesk/releases).
 - Active focus on making small tools understandable through clean README files, screenshots, release notes, and reproducible build steps.
 
