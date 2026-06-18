@@ -1,17 +1,13 @@
 # Minghao Liu
 
-Peking University student working on image restoration, deraining, continual learning, and small tools that make research life less brittle.
+Peking University student working on deraining, image restoration, continual learning, and small tools that make research life less brittle. I am building research tools, macOS utilities, reproducible AI paper trackers, and practical VS Code workflows.
 
 [![GitHub followers](https://img.shields.io/github/followers/StaryMoon?style=flat&label=followers)](https://github.com/StaryMoon)
-[![AI Paper Radar](https://img.shields.io/github/stars/StaryMoon/awesome-ai-paper-reproduction-radar?style=flat&label=AI-Paper-Radar)](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar)
-[![LLM Reasoning Roadmap](https://img.shields.io/github/stars/StaryMoon/awesome-llm-reasoning-roadmap?style=flat&label=LLM-Reasoning-Roadmap)](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap)
 [![DailyDesk](https://img.shields.io/github/stars/StaryMoon/DailyDesk?style=flat&label=DailyDesk)](https://github.com/StaryMoon/DailyDesk)
+[![AI Paper Radar](https://img.shields.io/github/stars/StaryMoon/awesome-ai-paper-reproduction-radar?style=flat&label=AI%20Paper%20Radar)](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar)
+[![LLM Roadmap](https://img.shields.io/github/stars/StaryMoon/awesome-llm-reasoning-roadmap?style=flat&label=LLM%20Roadmap)](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap)
+[![OSDFace](https://img.shields.io/github/stars/StaryMoon/OSDFace-Unofficial?style=flat&label=OSDFace)](https://github.com/StaryMoon/OSDFace-Unofficial)
 [![VSCode-Zhihu](https://img.shields.io/github/stars/StaryMoon/VSCode-Zhihu?style=flat&label=VSCode-Zhihu)](https://github.com/StaryMoon/VSCode-Zhihu)
-[![ResFlow-Unofficial](https://img.shields.io/github/stars/StaryMoon/ResFlow-Unofficial?style=flat&label=ResFlow-Unofficial)](https://github.com/StaryMoon/ResFlow-Unofficial)
-[![IPC-Dehaze-Unofficial](https://img.shields.io/github/stars/StaryMoon/IPC-Dehaze-Unofficial?style=flat&label=IPC-Dehaze)](https://github.com/StaryMoon/IPC-Dehaze-Unofficial)
-[![S-Seg-Unofficial](https://img.shields.io/github/stars/StaryMoon/S-Seg-Unofficial?style=flat&label=S-Seg)](https://github.com/StaryMoon/S-Seg-Unofficial)
-[![Motions-as-Queries](https://img.shields.io/github/stars/StaryMoon/Motions-as-Queries-Unofficial?style=flat&label=Motions-as-Queries)](https://github.com/StaryMoon/Motions-as-Queries-Unofficial)
-[![Presto-SCA](https://img.shields.io/github/stars/StaryMoon/Presto-SCA-Unofficial?style=flat&label=Presto-SCA)](https://github.com/StaryMoon/Presto-SCA-Unofficial)
 
 ![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=68&prs=6&anki=180&theme=light)
 
@@ -25,19 +21,15 @@ Peking University student working on image restoration, deraining, continual lea
 
 | Project | What it shows |
 |---|---|
-| [awesome-ai-paper-reproduction-radar](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar) | Searchable radar of high-interest AI papers and unofficial PyTorch reproduction repositories across LLMs, VLMs, video, robotics, 3D, and restoration. |
-| [awesome-llm-reasoning-roadmap](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap) | Visual roadmap of LLM reasoning papers from Chain-of-Thought to test-time scaling, reasoning RL, data recipes, and benchmark stress tests. |
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Native Swift/AppKit macOS glass desktop planner with recurring tasks, local rewards, and a tiny desktop pet. |
+| [awesome-ai-paper-reproduction-radar](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar) | Searchable radar for hot AI papers, code status, unofficial starters, and curated reproduction tracks across LLMs, VLMs, video, robotics, 3D, and restoration. |
+| [awesome-llm-reasoning-roadmap](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap) | Visual roadmap for LLM reasoning papers, post-training, benchmarks, agents, test-time scaling, and reasoning RL. |
+| [OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) | Unofficial PyTorch starter for CVPR 2025 OSDFace, a one-step diffusion model for face restoration. |
 | [VSCode-Zhihu](https://github.com/StaryMoon/VSCode-Zhihu) | Maintained fork of Zhihu On VSCode with login fixes, packaged VSIX releases, markdown publishing, answer drafting, and authenticated reading utilities. |
 | [student-stats-cards](https://github.com/StaryMoon/student-stats-cards) | GitHub profile cards for students: research, LeetCode, open-source PRs, study streaks, and academic signals. |
-| [ResFlow-Unofficial](https://github.com/StaryMoon/ResFlow-Unofficial) | Unofficial PyTorch reproduction for CVPR 2025 Reversing Flow for Image Restoration, with a compact velocity-field model and flow-matching interface. |
-| [IPC-Dehaze-Unofficial](https://github.com/StaryMoon/IPC-Dehaze-Unofficial) | Unofficial PyTorch reproduction for CVPR 2025 IPC-Dehaze, with predictor-critic code refinement and codebook-style dehazing modules. |
-| [S-Seg-Unofficial](https://github.com/StaryMoon/S-Seg-Unofficial) | Unofficial PyTorch reproduction for CVPR 2025 S-Seg open-vocabulary semantic segmentation, with mask queries and text-alignment interfaces. |
-| [Motions-as-Queries-Unofficial](https://github.com/StaryMoon/Motions-as-Queries-Unofficial) | Unofficial PyTorch reproduction for CVPR 2025 one-stage multi-person motion capture, with temporal motion queries and pose heads. |
-| [Presto-SCA-Unofficial](https://github.com/StaryMoon/Presto-SCA-Unofficial) | Unofficial PyTorch reproduction for CVPR 2025 long-video generation with segmented cross-attention over temporal video tokens. |
+| [Merged PR: nilbuild/developer-roadmap#10037](https://github.com/nilbuild/developer-roadmap/pull/10037) | Upstream contribution to a high-visibility developer learning roadmap project. |
 | [Prompting-Rain-Off](https://github.com/StaryMoon/Prompting-Rain-Off) | Project page for "Prompting Rain Off: Evolving Compact Dual Prompts for Continual De-Raining". |
 | [StaryMoon.github.io](https://github.com/StaryMoon/StaryMoon.github.io) | Personal academic homepage for publications, projects, and technical writing. |
-| [SpeedCraftLab](https://github.com/StaryMoon/SpeedCraftLab) | Browser lab for reaction time, visual scanning, CPS, and niche puzzle-game rhythm training. |
 
 ## Hot AI Unofficial Reproduction Batch
 
