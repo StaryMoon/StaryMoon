@@ -7,6 +7,7 @@ Peking University student working on deraining, image restoration, continual lea
 [![AI Paper Radar](https://img.shields.io/github/stars/StaryMoon/awesome-ai-paper-reproduction-radar?style=flat&label=AI%20Paper%20Radar)](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar)
 [![AI Researcher Skills](https://img.shields.io/github/stars/StaryMoon/ai-researcher-skills?style=flat&label=AI%20Researcher%20Skills)](https://github.com/StaryMoon/ai-researcher-skills)
 [![Paper Memory MCP](https://img.shields.io/github/stars/StaryMoon/paper-memory-mcp-lite?style=flat&label=Paper%20Memory%20MCP)](https://github.com/StaryMoon/paper-memory-mcp-lite)
+[![CodeGraph MCP](https://img.shields.io/github/stars/StaryMoon/codegraph-memory-mcp-lite?style=flat&label=CodeGraph%20MCP)](https://github.com/StaryMoon/codegraph-memory-mcp-lite)
 [![LLM Roadmap](https://img.shields.io/github/stars/StaryMoon/awesome-llm-reasoning-roadmap?style=flat&label=LLM%20Roadmap)](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap)
 [![OSDFace](https://img.shields.io/github/stars/StaryMoon/OSDFace-Unofficial?style=flat&label=OSDFace)](https://github.com/StaryMoon/OSDFace-Unofficial)
 [![VSCode-Zhihu](https://img.shields.io/github/stars/StaryMoon/VSCode-Zhihu?style=flat&label=VSCode-Zhihu)](https://github.com/StaryMoon/VSCode-Zhihu)
@@ -27,6 +28,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 |---|---|
 | [ai-researcher-skills](https://github.com/StaryMoon/ai-researcher-skills) | Skill pack for AI research agents: paper briefing, figure reading, experiment planning, rebuttal drafting, radar updates, and GitHub research upkeep. |
 | [paper-memory-mcp-lite](https://github.com/StaryMoon/paper-memory-mcp-lite) | Local-first MCP-style paper memory over Markdown, PDFs, figure notes, experiment logs, and README files using SQLite FTS. |
+| [codegraph-memory-mcp-lite](https://github.com/StaryMoon/codegraph-memory-mcp-lite) | Local-first MCP-style code memory with file search, Python symbols, import graph, and repo context packs. |
 | [obsidian-research-brief-kit](https://github.com/StaryMoon/obsidian-research-brief-kit) | Obsidian-compatible templates for daily briefings, paper tutorials, figure notes, experiment cards, and weekly reviews. |
 | [awesome-ai-paper-reproduction-radar](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar) | Searchable radar for hot AI papers, code status, unofficial starters, and curated reproduction tracks. |
 
@@ -37,6 +39,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Native Swift/AppKit macOS glass desktop planner with recurring tasks, local rewards, and a tiny desktop pet. |
 | [ai-researcher-skills](https://github.com/StaryMoon/ai-researcher-skills) | Practical skill pack for research agents working across papers, figures, experiments, reviews, and GitHub releases. |
 | [paper-memory-mcp-lite](https://github.com/StaryMoon/paper-memory-mcp-lite) | Local-first MCP-style research memory with SQLite FTS and smoke-testable stdio tools. |
+| [codegraph-memory-mcp-lite](https://github.com/StaryMoon/codegraph-memory-mcp-lite) | Lightweight MCP codegraph memory for agents that need symbols, imports, file search, and repo context before editing. |
 | [obsidian-research-brief-kit](https://github.com/StaryMoon/obsidian-research-brief-kit) | Lightweight Obsidian vault kit for daily AI research briefings and experiment cards. |
 | [awesome-ai-paper-reproduction-radar](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar) | Searchable radar for hot AI papers, code status, unofficial starters, and curated reproduction tracks across LLMs, VLMs, video, robotics, 3D, and restoration. |
 | [awesome-llm-reasoning-roadmap](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap) | Visual roadmap for LLM reasoning papers, post-training, benchmarks, agents, test-time scaling, and reasoning RL. |
