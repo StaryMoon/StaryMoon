@@ -9,6 +9,7 @@ Peking University student working on deraining, image restoration, continual lea
 [![Paper Memory MCP](https://img.shields.io/github/stars/StaryMoon/paper-memory-mcp-lite?style=flat&label=Paper%20Memory%20MCP)](https://github.com/StaryMoon/paper-memory-mcp-lite)
 [![CodeGraph MCP](https://img.shields.io/github/stars/StaryMoon/codegraph-memory-mcp-lite?style=flat&label=CodeGraph%20MCP)](https://github.com/StaryMoon/codegraph-memory-mcp-lite)
 [![Vibe Trading Bot](https://img.shields.io/github/stars/StaryMoon/vibe-trading-bot?style=flat&label=Vibe%20Trading%20Bot)](https://github.com/StaryMoon/vibe-trading-bot)
+[![Freqtrade Report Kit](https://img.shields.io/github/stars/StaryMoon/freqtrade-report-kit?style=flat&label=Freqtrade%20Report%20Kit)](https://github.com/StaryMoon/freqtrade-report-kit)
 [![LLM Roadmap](https://img.shields.io/github/stars/StaryMoon/awesome-llm-reasoning-roadmap?style=flat&label=LLM%20Roadmap)](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap)
 [![OSDFace](https://img.shields.io/github/stars/StaryMoon/OSDFace-Unofficial?style=flat&label=OSDFace)](https://github.com/StaryMoon/OSDFace-Unofficial)
 [![VSCode-Zhihu](https://img.shields.io/github/stars/StaryMoon/VSCode-Zhihu?style=flat&label=VSCode-Zhihu)](https://github.com/StaryMoon/VSCode-Zhihu)
@@ -39,6 +40,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 |---|---|
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Native Swift/AppKit macOS glass desktop planner with recurring tasks, local rewards, and a tiny desktop pet. |
 | [vibe-trading-bot](https://github.com/StaryMoon/vibe-trading-bot) | Risk-first AI-native crypto paper trading bot with Obsidian reports, Streamlit dashboard, strict live gates, and performance analytics. |
+| [freqtrade-report-kit](https://github.com/StaryMoon/freqtrade-report-kit) | Companion reporting utility for Freqtrade-style backtest JSON exports: Markdown, HTML, CSV, drawdown, profit factor, pair contribution, and risk review. |
 | [ai-researcher-skills](https://github.com/StaryMoon/ai-researcher-skills) | Practical skill pack for research agents working across papers, figures, experiments, reviews, and GitHub releases. |
 | [paper-memory-mcp-lite](https://github.com/StaryMoon/paper-memory-mcp-lite) | Local-first MCP-style research memory with SQLite FTS and smoke-testable stdio tools. |
 | [codegraph-memory-mcp-lite](https://github.com/StaryMoon/codegraph-memory-mcp-lite) | Lightweight MCP codegraph memory for agents that need symbols, imports, file search, and repo context before editing. |
