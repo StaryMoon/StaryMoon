@@ -8,6 +8,7 @@ Peking University student working on deraining, image restoration, continual lea
 [![AI Researcher Skills](https://img.shields.io/github/stars/StaryMoon/ai-researcher-skills?style=flat&label=AI%20Researcher%20Skills)](https://github.com/StaryMoon/ai-researcher-skills)
 [![Paper Memory MCP](https://img.shields.io/github/stars/StaryMoon/paper-memory-mcp-lite?style=flat&label=Paper%20Memory%20MCP)](https://github.com/StaryMoon/paper-memory-mcp-lite)
 [![CodeGraph MCP](https://img.shields.io/github/stars/StaryMoon/codegraph-memory-mcp-lite?style=flat&label=CodeGraph%20MCP)](https://github.com/StaryMoon/codegraph-memory-mcp-lite)
+[![Codex Skill Catalog](https://img.shields.io/github/stars/StaryMoon/codex-skill-catalog?style=flat&label=Codex%20Skill%20Catalog)](https://github.com/StaryMoon/codex-skill-catalog)
 [![Vibe Trading Bot](https://img.shields.io/github/stars/StaryMoon/vibe-trading-bot?style=flat&label=Vibe%20Trading%20Bot)](https://github.com/StaryMoon/vibe-trading-bot)
 [![Freqtrade Report Kit](https://img.shields.io/github/stars/StaryMoon/freqtrade-report-kit?style=flat&label=Freqtrade%20Report%20Kit)](https://github.com/StaryMoon/freqtrade-report-kit)
 [![LLM Roadmap](https://img.shields.io/github/stars/StaryMoon/awesome-llm-reasoning-roadmap?style=flat&label=LLM%20Roadmap)](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap)
@@ -31,6 +32,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | [ai-researcher-skills](https://github.com/StaryMoon/ai-researcher-skills) | Skill pack for AI research agents: paper briefing, figure reading, experiment planning, rebuttal drafting, radar updates, and GitHub research upkeep. |
 | [paper-memory-mcp-lite](https://github.com/StaryMoon/paper-memory-mcp-lite) | Local-first MCP-style paper memory over Markdown, PDFs, figure notes, experiment logs, and README files using SQLite FTS. |
 | [codegraph-memory-mcp-lite](https://github.com/StaryMoon/codegraph-memory-mcp-lite) | Local-first MCP-style code memory with file search, Python symbols, import graph, and repo context packs. |
+| [codex-skill-catalog](https://github.com/StaryMoon/codex-skill-catalog) | Local-first catalog generator for Codex-style skills, plugin skill roots, config sections, and agent workspace migration notes. |
 | [obsidian-research-brief-kit](https://github.com/StaryMoon/obsidian-research-brief-kit) | Obsidian-compatible templates for daily briefings, paper tutorials, figure notes, experiment cards, and weekly reviews. |
 | [awesome-ai-paper-reproduction-radar](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar) | Searchable radar for hot AI papers, code status, unofficial starters, and curated reproduction tracks. |
 
