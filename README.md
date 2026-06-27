@@ -12,6 +12,7 @@ Peking University student working on deraining, image restoration, continual lea
 [![Vibe Trading Bot](https://img.shields.io/github/stars/StaryMoon/vibe-trading-bot?style=flat&label=Vibe%20Trading%20Bot)](https://github.com/StaryMoon/vibe-trading-bot)
 [![Freqtrade Report Kit](https://img.shields.io/github/stars/StaryMoon/freqtrade-report-kit?style=flat&label=Freqtrade%20Report%20Kit)](https://github.com/StaryMoon/freqtrade-report-kit)
 [![Student AI Dev Perks](https://img.shields.io/github/stars/StaryMoon/student-ai-dev-perks?style=flat&label=Student%20AI%20Dev%20Perks)](https://github.com/StaryMoon/student-ai-dev-perks)
+[![Network Access Toolkit](https://img.shields.io/github/stars/StaryMoon/network-access-toolkit?style=flat&label=Network%20Access%20Toolkit)](https://github.com/StaryMoon/network-access-toolkit)
 [![LLM Roadmap](https://img.shields.io/github/stars/StaryMoon/awesome-llm-reasoning-roadmap?style=flat&label=LLM%20Roadmap)](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap)
 [![OSDFace](https://img.shields.io/github/stars/StaryMoon/OSDFace-Unofficial?style=flat&label=OSDFace)](https://github.com/StaryMoon/OSDFace-Unofficial)
 [![VSCode-Zhihu](https://img.shields.io/github/stars/StaryMoon/VSCode-Zhihu?style=flat&label=VSCode-Zhihu)](https://github.com/StaryMoon/VSCode-Zhihu)
@@ -54,6 +55,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | [VSCode-Zhihu](https://github.com/StaryMoon/VSCode-Zhihu) | Maintained fork of Zhihu On VSCode with login fixes, packaged VSIX releases, markdown publishing, answer drafting, and authenticated reading utilities. |
 | [student-stats-cards](https://github.com/StaryMoon/student-stats-cards) | GitHub profile cards for students: research, LeetCode, open-source PRs, study streaks, and academic signals. |
 | [student-ai-dev-perks](https://github.com/StaryMoon/student-ai-dev-perks) | 中文学生党 AI、开发者、云服务、设计、笔记、域名和论文写作福利官方入口总表。 |
+| [network-access-toolkit](https://github.com/StaryMoon/network-access-toolkit) | 中文学生科研党网络连通性工具箱：远程服务器、自建组网、内网穿透、SSH 排障、文件同步。 |
 | [Merged PR: nilbuild/developer-roadmap#10037](https://github.com/nilbuild/developer-roadmap/pull/10037) | Upstream contribution to a high-visibility developer learning roadmap project. |
 | [Prompting-Rain-Off](https://github.com/StaryMoon/Prompting-Rain-Off) | Project page for "Prompting Rain Off: Evolving Compact Dual Prompts for Continual De-Raining". |
 | [StaryMoon.github.io](https://github.com/StaryMoon/StaryMoon.github.io) | Personal academic homepage for publications, projects, and technical writing. |
