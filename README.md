@@ -5,6 +5,7 @@ Peking University student working on deraining, image restoration, continual lea
 [![GitHub followers](https://img.shields.io/github/followers/StaryMoon?style=flat&label=followers)](https://github.com/StaryMoon)
 [![DailyDesk](https://img.shields.io/github/stars/StaryMoon/DailyDesk?style=flat&label=DailyDesk)](https://github.com/StaryMoon/DailyDesk)
 [![AI Paper Radar](https://img.shields.io/github/stars/StaryMoon/awesome-ai-paper-reproduction-radar?style=flat&label=AI%20Paper%20Radar)](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar)
+[![AI Coding Tools CN](https://img.shields.io/github/stars/StaryMoon/ai-coding-tools-cn?style=flat&label=AI%20Coding%20Tools%20CN)](https://github.com/StaryMoon/ai-coding-tools-cn)
 [![AI Researcher Skills](https://img.shields.io/github/stars/StaryMoon/ai-researcher-skills?style=flat&label=AI%20Researcher%20Skills)](https://github.com/StaryMoon/ai-researcher-skills)
 [![Paper Memory MCP](https://img.shields.io/github/stars/StaryMoon/paper-memory-mcp-lite?style=flat&label=Paper%20Memory%20MCP)](https://github.com/StaryMoon/paper-memory-mcp-lite)
 [![CodeGraph MCP](https://img.shields.io/github/stars/StaryMoon/codegraph-memory-mcp-lite?style=flat&label=CodeGraph%20MCP)](https://github.com/StaryMoon/codegraph-memory-mcp-lite)
@@ -50,6 +51,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | [codegraph-memory-mcp-lite](https://github.com/StaryMoon/codegraph-memory-mcp-lite) | Lightweight MCP codegraph memory for agents that need symbols, imports, file search, and repo context before editing. |
 | [obsidian-research-brief-kit](https://github.com/StaryMoon/obsidian-research-brief-kit) | Lightweight Obsidian vault kit for daily AI research briefings and experiment cards. |
 | [awesome-ai-paper-reproduction-radar](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar) | Searchable radar for hot AI papers, code status, unofficial starters, and curated reproduction tracks across LLMs, VLMs, video, robotics, 3D, and restoration. |
+| [ai-coding-tools-cn](https://github.com/StaryMoon/ai-coding-tools-cn) | 中文 AI 编程工具选型指南：Codex、Claude Code、Gemini CLI、Cursor、Cline、Aider、Continue、Qwen Code 等。 |
 | [awesome-llm-reasoning-roadmap](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap) | Visual roadmap for LLM reasoning papers, post-training, benchmarks, agents, test-time scaling, and reasoning RL. |
 | [OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) | Unofficial PyTorch starter for CVPR 2025 OSDFace, a one-step diffusion model for face restoration. |
 | [VSCode-Zhihu](https://github.com/StaryMoon/VSCode-Zhihu) | Maintained fork of Zhihu On VSCode with login fixes, packaged VSIX releases, markdown publishing, answer drafting, and authenticated reading utilities. |
