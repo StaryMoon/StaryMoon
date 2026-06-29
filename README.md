@@ -45,7 +45,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | Project | What it shows |
 |---|---|
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Native Swift/AppKit macOS glass desktop planner with recurring tasks, local rewards, and a tiny desktop pet. |
-| [awesome-practical-cn](https://github.com/StaryMoon/awesome-practical-cn) | 中文实用信息汇总：20 个高质量专题，覆盖 AI 工具、学生福利、科研、效率、量化、镜像等，并配官方公开页面截图。 |
+| [awesome-practical-cn](https://github.com/StaryMoon/awesome-practical-cn) | Curated Chinese resource index with 20 focused guides, official links, screenshots, structured data, and maintenance scripts. |
 | [vibe-trading-bot](https://github.com/StaryMoon/vibe-trading-bot) | Risk-first AI-native crypto paper trading bot with Obsidian reports, Streamlit dashboard, strict live gates, and performance analytics. |
 | [freqtrade-report-kit](https://github.com/StaryMoon/freqtrade-report-kit) | Companion reporting utility for Freqtrade-style backtest JSON exports: Markdown, HTML, CSV, drawdown, profit factor, pair contribution, and risk review. |
 | [ai-researcher-skills](https://github.com/StaryMoon/ai-researcher-skills) | Practical skill pack for research agents working across papers, figures, experiments, reviews, and GitHub releases. |
@@ -58,7 +58,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | [OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) | Unofficial PyTorch starter for CVPR 2025 OSDFace, a one-step diffusion model for face restoration. |
 | [VSCode-Zhihu](https://github.com/StaryMoon/VSCode-Zhihu) | Maintained fork of Zhihu On VSCode with login fixes, packaged VSIX releases, markdown publishing, answer drafting, and authenticated reading utilities. |
 | [student-stats-cards](https://github.com/StaryMoon/student-stats-cards) | GitHub profile cards for students: research, LeetCode, open-source PRs, study streaks, and academic signals. |
-| [student-ai-dev-perks](https://github.com/StaryMoon/student-ai-dev-perks) | 中文学生党 AI、开发者、云服务、设计、笔记、域名和论文写作福利官方入口总表。 |
+| [student-ai-dev-perks](https://github.com/StaryMoon/student-ai-dev-perks) | Chinese index of official student developer benefits across AI, cloud, design, notes, domains, and research writing tools. |
 | [network-access-toolkit](https://github.com/StaryMoon/network-access-toolkit) | 中文学生科研党网络连通性工具箱：远程服务器、自建组网、内网穿透、SSH 排障、文件同步。 |
 | [Merged PR: nilbuild/developer-roadmap#10037](https://github.com/nilbuild/developer-roadmap/pull/10037) | Upstream contribution to a high-visibility developer learning roadmap project. |
 | [Prompting-Rain-Off](https://github.com/StaryMoon/Prompting-Rain-Off) | Project page for "Prompting Rain Off: Evolving Compact Dual Prompts for Continual De-Raining". |
