@@ -4,6 +4,7 @@ Peking University student working on deraining, image restoration, continual lea
 
 [![GitHub followers](https://img.shields.io/github/followers/StaryMoon?style=flat&label=followers)](https://github.com/StaryMoon)
 [![DailyDesk](https://img.shields.io/github/stars/StaryMoon/DailyDesk?style=flat&label=DailyDesk)](https://github.com/StaryMoon/DailyDesk)
+[![Awesome Practical CN](https://img.shields.io/github/stars/StaryMoon/awesome-practical-cn?style=flat&label=Awesome%20Practical%20CN)](https://github.com/StaryMoon/awesome-practical-cn)
 [![AI Paper Radar](https://img.shields.io/github/stars/StaryMoon/awesome-ai-paper-reproduction-radar?style=flat&label=AI%20Paper%20Radar)](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar)
 [![AI Coding Tools CN](https://img.shields.io/github/stars/StaryMoon/ai-coding-tools-cn?style=flat&label=AI%20Coding%20Tools%20CN)](https://github.com/StaryMoon/ai-coding-tools-cn)
 [![AI Researcher Skills](https://img.shields.io/github/stars/StaryMoon/ai-researcher-skills?style=flat&label=AI%20Researcher%20Skills)](https://github.com/StaryMoon/ai-researcher-skills)
@@ -44,6 +45,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | Project | What it shows |
 |---|---|
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Native Swift/AppKit macOS glass desktop planner with recurring tasks, local rewards, and a tiny desktop pet. |
+| [awesome-practical-cn](https://github.com/StaryMoon/awesome-practical-cn) | 中文实用信息汇总：20 个高质量专题，覆盖 AI 工具、学生福利、科研、效率、量化、镜像等，并配官方公开页面截图。 |
 | [vibe-trading-bot](https://github.com/StaryMoon/vibe-trading-bot) | Risk-first AI-native crypto paper trading bot with Obsidian reports, Streamlit dashboard, strict live gates, and performance analytics. |
 | [freqtrade-report-kit](https://github.com/StaryMoon/freqtrade-report-kit) | Companion reporting utility for Freqtrade-style backtest JSON exports: Markdown, HTML, CSV, drawdown, profit factor, pair contribution, and risk review. |
 | [ai-researcher-skills](https://github.com/StaryMoon/ai-researcher-skills) | Practical skill pack for research agents working across papers, figures, experiments, reviews, and GitHub releases. |
