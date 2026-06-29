@@ -64,6 +64,34 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | [Prompting-Rain-Off](https://github.com/StaryMoon/Prompting-Rain-Off) | Project page for "Prompting Rain Off: Evolving Compact Dual Prompts for Continual De-Raining". |
 | [StaryMoon.github.io](https://github.com/StaryMoon/StaryMoon.github.io) | Personal academic homepage for publications, projects, and technical writing. |
 
+<details>
+<summary>Practical Chinese guide repos</summary>
+
+| Area | Repo |
+|---|---|
+| AI coding | [cn-ai-coding-toolbox](https://github.com/StaryMoon/cn-ai-coding-toolbox) |
+| LLM APIs | [cn-llm-api-map](https://github.com/StaryMoon/cn-llm-api-map) |
+| Student perks | [cn-student-dev-perks](https://github.com/StaryMoon/cn-student-dev-perks) |
+| Research papers | [cn-research-paper-toolbox](https://github.com/StaryMoon/cn-research-paper-toolbox) |
+| Free books and courses | [cn-free-books-courses](https://github.com/StaryMoon/cn-free-books-courses) |
+| Design assets | [cn-design-assets-map](https://github.com/StaryMoon/cn-design-assets-map) |
+| AI media tools | [cn-ai-media-tools](https://github.com/StaryMoon/cn-ai-media-tools) |
+| Remote development | [cn-remote-dev-handbook](https://github.com/StaryMoon/cn-remote-dev-handbook) |
+| macOS productivity | [cn-macos-productivity](https://github.com/StaryMoon/cn-macos-productivity) |
+| Windows productivity | [cn-windows-productivity](https://github.com/StaryMoon/cn-windows-productivity) |
+| Knowledge workflow | [cn-knowledge-workflow](https://github.com/StaryMoon/cn-knowledge-workflow) |
+| PDF and OCR | [cn-pdf-ocr-toolbox](https://github.com/StaryMoon/cn-pdf-ocr-toolbox) |
+| Self-hosted NAS | [cn-selfhosted-nas](https://github.com/StaryMoon/cn-selfhosted-nas) |
+| Open-source alternatives | [cn-open-source-alternatives](https://github.com/StaryMoon/cn-open-source-alternatives) |
+| Quant trading | [cn-quant-trading-toolbox](https://github.com/StaryMoon/cn-quant-trading-toolbox) |
+| Data visualization | [cn-data-viz-toolbox](https://github.com/StaryMoon/cn-data-viz-toolbox) |
+| API backend | [cn-api-backend-tools](https://github.com/StaryMoon/cn-api-backend-tools) |
+| GitHub polish | [cn-github-project-polish](https://github.com/StaryMoon/cn-github-project-polish) |
+| Privacy security | [cn-privacy-security-toolbox](https://github.com/StaryMoon/cn-privacy-security-toolbox) |
+| CN mirrors | [cn-mirrors-download-guide](https://github.com/StaryMoon/cn-mirrors-download-guide) |
+
+</details>
+
 ## Hot AI Unofficial Reproduction Batch
 
 I am also tracking high-search-volume AI directions with official-style unofficial PyTorch reproduction repositories: reasoning RL, multimodal models, video/world models, VLA robotics, 3D generation, and efficient sequence modeling.
