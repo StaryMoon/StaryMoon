@@ -5,6 +5,7 @@ Peking University student working on deraining, image restoration, continual lea
 [![GitHub followers](https://img.shields.io/github/followers/StaryMoon?style=flat&label=followers)](https://github.com/StaryMoon)
 [![DailyDesk](https://img.shields.io/github/stars/StaryMoon/DailyDesk?style=flat&label=DailyDesk)](https://github.com/StaryMoon/DailyDesk)
 [![Awesome Practical CN](https://img.shields.io/github/stars/StaryMoon/awesome-practical-cn?style=flat&label=Awesome%20Practical%20CN)](https://github.com/StaryMoon/awesome-practical-cn)
+[![Free AI Builders CN](https://img.shields.io/github/stars/StaryMoon/free-for-ai-builders-cn?style=flat&label=Free%20AI%20Builders%20CN)](https://github.com/StaryMoon/free-for-ai-builders-cn)
 [![AI Paper Radar](https://img.shields.io/github/stars/StaryMoon/awesome-ai-paper-reproduction-radar?style=flat&label=AI%20Paper%20Radar)](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar)
 [![AI Coding Tools CN](https://img.shields.io/github/stars/StaryMoon/ai-coding-tools-cn?style=flat&label=AI%20Coding%20Tools%20CN)](https://github.com/StaryMoon/ai-coding-tools-cn)
 [![AI Researcher Skills](https://img.shields.io/github/stars/StaryMoon/ai-researcher-skills?style=flat&label=AI%20Researcher%20Skills)](https://github.com/StaryMoon/ai-researcher-skills)
@@ -46,6 +47,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 |---|---|
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Native Swift/AppKit macOS glass desktop planner with recurring tasks, local rewards, and a tiny desktop pet. |
 | [awesome-practical-cn](https://github.com/StaryMoon/awesome-practical-cn) | Curated Chinese resource index with 20 focused guides, official links, screenshots, structured data, and maintenance scripts. |
+| [free-for-ai-builders-cn](https://github.com/StaryMoon/free-for-ai-builders-cn) | Chinese AI builder free-tier index covering model APIs, coding agents, demo hosting, RAG data stack, eval observability, notebooks, official screenshots, and billing notes. |
 | [vibe-trading-bot](https://github.com/StaryMoon/vibe-trading-bot) | Risk-first AI-native crypto paper trading bot with Obsidian reports, Streamlit dashboard, strict live gates, and performance analytics. |
 | [freqtrade-report-kit](https://github.com/StaryMoon/freqtrade-report-kit) | Companion reporting utility for Freqtrade-style backtest JSON exports: Markdown, HTML, CSV, drawdown, profit factor, pair contribution, and risk review. |
 | [ai-researcher-skills](https://github.com/StaryMoon/ai-researcher-skills) | Practical skill pack for research agents working across papers, figures, experiments, reviews, and GitHub releases. |
