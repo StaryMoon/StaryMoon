@@ -9,6 +9,7 @@ Peking University student working on deraining, image restoration, continual lea
 [![AI Paper Radar](https://img.shields.io/github/stars/StaryMoon/awesome-ai-paper-reproduction-radar?style=flat&label=AI%20Paper%20Radar)](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar)
 [![AI Coding Tools CN](https://img.shields.io/github/stars/StaryMoon/ai-coding-tools-cn?style=flat&label=AI%20Coding%20Tools%20CN)](https://github.com/StaryMoon/ai-coding-tools-cn)
 [![AI Researcher Skills](https://img.shields.io/github/stars/StaryMoon/ai-researcher-skills?style=flat&label=AI%20Researcher%20Skills)](https://github.com/StaryMoon/ai-researcher-skills)
+[![Paper Ready](https://img.shields.io/github/stars/StaryMoon/paper-ready-checklist?style=flat&label=Paper%20Ready)](https://github.com/StaryMoon/paper-ready-checklist)
 [![Paper Memory MCP](https://img.shields.io/github/stars/StaryMoon/paper-memory-mcp-lite?style=flat&label=Paper%20Memory%20MCP)](https://github.com/StaryMoon/paper-memory-mcp-lite)
 [![CodeGraph MCP](https://img.shields.io/github/stars/StaryMoon/codegraph-memory-mcp-lite?style=flat&label=CodeGraph%20MCP)](https://github.com/StaryMoon/codegraph-memory-mcp-lite)
 [![Codex Skill Catalog](https://img.shields.io/github/stars/StaryMoon/codex-skill-catalog?style=flat&label=Codex%20Skill%20Catalog)](https://github.com/StaryMoon/codex-skill-catalog)
@@ -39,6 +40,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | [codegraph-memory-mcp-lite](https://github.com/StaryMoon/codegraph-memory-mcp-lite) | Local-first MCP-style code memory with file search, Python symbols, import graph, and repo context packs. |
 | [codex-skill-catalog](https://github.com/StaryMoon/codex-skill-catalog) | Local-first catalog generator for Codex-style skills, plugin skill roots, config sections, and agent workspace migration notes. |
 | [obsidian-research-brief-kit](https://github.com/StaryMoon/obsidian-research-brief-kit) | Obsidian-compatible templates for daily briefings, paper tutorials, figure notes, experiment cards, and weekly reviews. |
+| [paper-ready-checklist](https://github.com/StaryMoon/paper-ready-checklist) | Local CLI for AI paper submission and camera-ready LaTeX projects: TODOs, refs, labels, figures, anonymity, bibliography, and upload-risk reports. |
 | [awesome-ai-paper-reproduction-radar](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar) | Searchable radar for hot AI papers, code status, unofficial starters, and curated reproduction tracks. |
 
 ## Selected Projects
@@ -46,6 +48,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | Project | What it shows |
 |---|---|
 | [DailyDesk](https://github.com/StaryMoon/DailyDesk) | Native Swift/AppKit macOS glass desktop planner with recurring tasks, local rewards, and a tiny desktop pet. |
+| [paper-ready-checklist](https://github.com/StaryMoon/paper-ready-checklist) | Local CLI for paper submission and camera-ready LaTeX checks: placeholders, refs, labels, figures, author anonymity, bibliography, and upload-risk reports. |
 | [awesome-practical-cn](https://github.com/StaryMoon/awesome-practical-cn) | Curated Chinese resource index with 20 focused guides, official links, screenshots, structured data, and maintenance scripts. |
 | [free-for-ai-builders-cn](https://github.com/StaryMoon/free-for-ai-builders-cn) | Chinese AI builder free-tier index covering model APIs, coding agents, demo hosting, RAG data stack, eval observability, notebooks, official screenshots, and billing notes. |
 | [vibe-trading-bot](https://github.com/StaryMoon/vibe-trading-bot) | Risk-first AI-native crypto paper trading bot with Obsidian reports, Streamlit dashboard, strict live gates, and performance analytics. |
