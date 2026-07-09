@@ -15,6 +15,8 @@ Peking University student working on deraining, image restoration, continual lea
 [![Codex Skill Catalog](https://img.shields.io/github/stars/StaryMoon/codex-skill-catalog?style=flat&label=Codex%20Skill%20Catalog)](https://github.com/StaryMoon/codex-skill-catalog)
 [![Vibe Trading Bot](https://img.shields.io/github/stars/StaryMoon/vibe-trading-bot?style=flat&label=Vibe%20Trading%20Bot)](https://github.com/StaryMoon/vibe-trading-bot)
 [![Freqtrade Report Kit](https://img.shields.io/github/stars/StaryMoon/freqtrade-report-kit?style=flat&label=Freqtrade%20Report%20Kit)](https://github.com/StaryMoon/freqtrade-report-kit)
+[![Desktop Pets](https://img.shields.io/github/stars/StaryMoon/awesome-desktop-pets?style=flat&label=Desktop%20Pets)](https://github.com/StaryMoon/awesome-desktop-pets)
+[![Local AI Workstation](https://img.shields.io/github/stars/StaryMoon/awesome-local-ai-workstation?style=flat&label=Local%20AI%20Workstation)](https://github.com/StaryMoon/awesome-local-ai-workstation)
 [![Student AI Dev Perks](https://img.shields.io/github/stars/StaryMoon/student-ai-dev-perks?style=flat&label=Student%20AI%20Dev%20Perks)](https://github.com/StaryMoon/student-ai-dev-perks)
 [![Network Access Toolkit](https://img.shields.io/github/stars/StaryMoon/network-access-toolkit?style=flat&label=Network%20Access%20Toolkit)](https://github.com/StaryMoon/network-access-toolkit)
 [![LLM Roadmap](https://img.shields.io/github/stars/StaryMoon/awesome-llm-reasoning-roadmap?style=flat&label=LLM%20Roadmap)](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap)
@@ -53,6 +55,8 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | [free-for-ai-builders-cn](https://github.com/StaryMoon/free-for-ai-builders-cn) | Chinese AI builder free-tier index covering model APIs, coding agents, demo hosting, RAG data stack, eval observability, notebooks, official screenshots, and billing notes. |
 | [vibe-trading-bot](https://github.com/StaryMoon/vibe-trading-bot) | Risk-first AI-native crypto paper trading bot with Obsidian reports, Streamlit dashboard, strict live gates, and performance analytics. |
 | [freqtrade-report-kit](https://github.com/StaryMoon/freqtrade-report-kit) | Companion reporting utility for Freqtrade-style backtest JSON exports: Markdown, HTML, CSV, drawdown, profit factor, pair contribution, and risk review. |
+| [awesome-desktop-pets](https://github.com/StaryMoon/awesome-desktop-pets) | Curated map of desktop pets, AI companions, transparent overlays, desktop widgets, and builder notes for small companion apps. |
+| [awesome-local-ai-workstation](https://github.com/StaryMoon/awesome-local-ai-workstation) | Practical map of local-first AI tools for developers: Ollama, llama.cpp, Open WebUI, Continue, aider, Whisper, notes, and small utilities. |
 | [ai-researcher-skills](https://github.com/StaryMoon/ai-researcher-skills) | Practical skill pack for research agents working across papers, figures, experiments, reviews, and GitHub releases. |
 | [paper-memory-mcp-lite](https://github.com/StaryMoon/paper-memory-mcp-lite) | Local-first MCP-style research memory with SQLite FTS and smoke-testable stdio tools. |
 | [codegraph-memory-mcp-lite](https://github.com/StaryMoon/codegraph-memory-mcp-lite) | Lightweight MCP codegraph memory for agents that need symbols, imports, file search, and repo context before editing. |
@@ -146,6 +150,7 @@ I also maintain a growing set of official-style unofficial paper-to-code reprodu
 ## Open Source Footprints
 
 - Merged upstream PR: [nilbuild/developer-roadmap#10037](https://github.com/nilbuild/developer-roadmap/pull/10037).
+- Merged upstream PR: [freqtrade/freqtrade#13320](https://github.com/freqtrade/freqtrade/pull/13320).
 - Merged reasoning-list PR: [Peiyang-Song/Awesome-LLM-Reasoning-Failures#6](https://github.com/Peiyang-Song/Awesome-LLM-Reasoning-Failures/pull/6).
 - Public maintainer-style releases for [VSCode-Zhihu](https://github.com/StaryMoon/VSCode-Zhihu/releases) and [DailyDesk](https://github.com/StaryMoon/DailyDesk/releases).
 - Active focus on making small tools understandable through clean README files, screenshots, release notes, and reproducible build steps.
