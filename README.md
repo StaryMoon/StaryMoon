@@ -25,6 +25,8 @@ Peking University student working on deraining, image restoration, continual lea
 
 ![Student Stats](https://student-stats-cards.vercel.app/api/student?name=Minghao%20Liu&school=Peking%20University%20%7C%20Image%20Restoration&github=StaryMoon&papers=3&projects=68&prs=6&anki=180&theme=light)
 
+[![Open Source Impact](https://raw.githubusercontent.com/StaryMoon/student-stats-cards/master/assets/examples/open-source-impact.svg)](https://github.com/StaryMoon/student-stats-cards)
+
 ## Focus
 
 - Image restoration and deraining, especially prompt-based continual restoration.
@@ -66,7 +68,7 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | [awesome-llm-reasoning-roadmap](https://github.com/StaryMoon/awesome-llm-reasoning-roadmap) | Visual roadmap for LLM reasoning papers, post-training, benchmarks, agents, test-time scaling, and reasoning RL. |
 | [OSDFace-Unofficial](https://github.com/StaryMoon/OSDFace-Unofficial) | Unofficial PyTorch starter for CVPR 2025 OSDFace, a one-step diffusion model for face restoration. |
 | [VSCode-Zhihu](https://github.com/StaryMoon/VSCode-Zhihu) | Maintained fork of Zhihu On VSCode with login fixes, packaged VSIX releases, markdown publishing, answer drafting, and authenticated reading utilities. |
-| [student-stats-cards](https://github.com/StaryMoon/student-stats-cards) | GitHub profile cards for students: research, LeetCode, open-source PRs, study streaks, and academic signals. |
+| [student-stats-cards](https://github.com/StaryMoon/student-stats-cards) | GitHub profile cards for students, including an automatic open-source impact card built from external merged PRs and upstream repository data. |
 | [student-ai-dev-perks](https://github.com/StaryMoon/student-ai-dev-perks) | Chinese index of official student developer benefits across AI, cloud, design, notes, domains, and research writing tools. |
 | [network-access-toolkit](https://github.com/StaryMoon/network-access-toolkit) | 中文学生科研党网络连通性工具箱：远程服务器、自建组网、内网穿透、SSH 排障、文件同步。 |
 | [Merged PR: nilbuild/developer-roadmap#10037](https://github.com/nilbuild/developer-roadmap/pull/10037) | Upstream contribution to a high-visibility developer learning roadmap project. |
