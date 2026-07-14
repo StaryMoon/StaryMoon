@@ -47,6 +47,18 @@ I am building a small local-first toolchain for AI researchers who read papers w
 | [paper-ready-checklist](https://github.com/StaryMoon/paper-ready-checklist) | Local CLI for AI paper submission and camera-ready LaTeX projects: TODOs, refs, labels, figures, anonymity, bibliography, and upload-risk reports. |
 | [awesome-ai-paper-reproduction-radar](https://github.com/StaryMoon/awesome-ai-paper-reproduction-radar) | Searchable radar for hot AI papers, code status, unofficial starters, and curated reproduction tracks. |
 
+## Research Agent Skills
+
+Ten focused Agent Skills that combine an explicit agent workflow with a deterministic, tested CLI. Each repository includes Chinese and English documentation, verified example inputs, real generated previews, CI, and an installable release archive.
+
+| Research stage | Skills |
+|---|---|
+| Read papers | [Paper Figure Extractor](https://github.com/StaryMoon/paper-figure-extractor-skill) · [Paper to Group Meeting](https://github.com/StaryMoon/paper-to-group-meeting-skill) |
+| Recover and present evidence | [Chart to Editable Data](https://github.com/StaryMoon/chart-to-editable-data-skill) · [Results Table to Figure](https://github.com/StaryMoon/results-table-to-figure-skill) |
+| Train and evaluate models | [Experiment Log Report](https://github.com/StaryMoon/experiment-log-report-skill) · [Image Benchmark Report](https://github.com/StaryMoon/image-benchmark-report-skill) |
+| Validate data and papers | [Paired Dataset Audit](https://github.com/StaryMoon/paired-dataset-audit-skill) · [LaTeX Camera Ready](https://github.com/StaryMoon/latex-camera-ready-skill) |
+| Collaborate and maintain | [Review Response Matrix](https://github.com/StaryMoon/review-response-matrix-skill) · [Bug Evidence to Issue](https://github.com/StaryMoon/bug-evidence-to-issue-skill) |
+
 ## Selected Projects
 
 | Project | What it shows |
